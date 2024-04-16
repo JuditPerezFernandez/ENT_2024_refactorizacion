@@ -3,7 +3,6 @@ package ejercicio1;
 public class Start {
 
 	public static void main(String[] args) {
-
 		Calculadora calc = new Calculadora();
 
 		System.out.println("Suma: " + calc.sumar(10, 5));
